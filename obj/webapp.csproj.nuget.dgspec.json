@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\office\\webapp\\webapp.csproj": {}
+    "f:\\office\\webapp\\webapp.csproj": {}
   },
   "projects": {
-    "F:\\office\\webapp\\webapp.csproj": {
+    "f:\\office\\webapp\\webapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\office\\webapp\\webapp.csproj",
+        "projectUniqueName": "f:\\office\\webapp\\webapp.csproj",
         "projectName": "webapp",
-        "projectPath": "F:\\office\\webapp\\webapp.csproj",
+        "projectPath": "f:\\office\\webapp\\webapp.csproj",
         "packagesPath": "C:\\Users\\raghav\\.nuget\\packages\\",
-        "outputPath": "F:\\office\\webapp\\obj\\",
+        "outputPath": "f:\\office\\webapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\raghav\\AppData\\Roaming\\NuGet\\NuGet.Config"
